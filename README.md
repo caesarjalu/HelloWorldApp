@@ -1,2 +1,2 @@
-# HelloWorldApp
- First Hello World Project for Mobile Programming Course
+# Mobile App First Project
+ First Project for Mobile Programming Course
